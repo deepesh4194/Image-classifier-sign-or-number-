@@ -71,3 +71,6 @@ Once We've installed all the prerequistes then we can open our cmd terminal and 
   >https://github.com/tensorflow/tensorflow/issues/36485  for tensflow 
   
   >https://stackoverflow.com/questions/54734538/opencv-assertion-failed-215assertion-failed-npoints-0-depth-cv-32 for openCV issues.
+  
+  ## Contact for any issues
+  > Email - deepesh4194@gmail.com
