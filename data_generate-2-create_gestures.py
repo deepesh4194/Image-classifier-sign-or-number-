@@ -23,7 +23,7 @@ def create_folder(folder_name):
 	
 def store_images(g_id):
 	total_pics = 400
-	hist = get_hand_hist()
+
 	cam = cv2.VideoCapture(1)
 	if cam.read()[0]==False:
 		cam = cv2.VideoCapture(0)
